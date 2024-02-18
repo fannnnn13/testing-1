@@ -1,7 +1,5 @@
-# testing-1
-Website dengan fitur login
-
-Alur login :
-1. Memasukkan email dan password.
-2. Memvalidasi masukan.
-3. Menampilkan halaman home.
+Daftar Biodata Siswa Dicoding Academy
+Dari 3 Angkatan :
+- 2019
+- 2020
+- 2021
